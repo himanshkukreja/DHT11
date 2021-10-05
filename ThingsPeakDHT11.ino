@@ -1,6 +1,6 @@
 #include <DHT.h>
 #include <ESP8266WiFi.h>
-
+//code here
 String apiKey = "R21CZ6MZAQV8DP5Y";
 
 const char *ssid = "AndroidAPFD40";
